@@ -1,0 +1,35 @@
+﻿[
+  {
+    "name": "Damage-20",
+    "cost": 10
+  },
+  {
+    "name": "DoTEffect-1-10",
+    "cost": 8
+  },
+  {
+    "name": "Damage-15",
+    "cost": 8
+  },
+  {
+    "name": "Deceleration",
+    "cost": 8
+  },
+  {
+    "name": "Regeneration-20",
+    "cost": 10
+  },
+  {
+    "name": "Acceleration",
+    "cost": 5
+  },
+  {
+    "name": "Freeze",
+    "cost": 8
+  },
+  {
+    "name": "Damage-25",
+    "cost": 13
+  }
+
+]

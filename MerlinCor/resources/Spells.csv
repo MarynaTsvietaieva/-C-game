@@ -1,0 +1,5 @@
+﻿Fireball;projecttitle;resources/fireball.png;70;70;Damage-20,DoTEffect-1-10
+Frostball;projecttitle;resources/laserPurpleDot2.png;13;65;Damage-15,Deceleration
+SuperHeal;selfcast; ;0;0;Regeneration-20,Acceleration
+Heal;selfcast; ;0;0;Regeneration-20
+FreezeBall;projecttitle;resources/elektr2.png;30;30;Freeze,Damage-25
